@@ -1,0 +1,19 @@
+#Page_Header {
+  font-size: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
+
+.header2 {
+  font-size: 35px;
+  font-family: Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.texts {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
